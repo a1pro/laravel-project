@@ -1,0 +1,86 @@
+nav.navbar.navbar-expand-md.navbar-light.shadow-sm.change {
+    border-radius: 0px 0px 20px 20px;
+    padding: 0 20px 0px 20px;
+    border-bottom: 0px solid #1070b9;
+    background: #fff;
+    max-width: 1142px;
+    /* margin: 27px auto!important; */
+    position: fixed;
+    z-index: 999;
+    margin-top: 0%;
+    left: 0%;
+    right: 0%;
+}
+section#bottom a:hover {
+    margin-left: 10px;
+    color: darkgray!important;
+}
+section#bottom {
+    background-color: rgb(52, 73, 94) !important;
+    font-size: 18px;
+    padding-top: 63px;
+    padding-bottom: 59px;
+    color: white;
+}
+main.py-4.site-main {
+    padding-bottom: 0px!important;
+}
+footer#footer
+{
+    background-color: rgb(52, 73, 94) !important;
+    font-size: 18px;
+  
+}
+footer#footer p
+{
+    color: white!important;  
+}
+.card-header {
+    background: none!important;
+    border-bottom: none!important;
+    color: black!important;
+    text-align: center;
+        text-transform: uppercase;
+    font-weight: bold;
+    padding: 3px 0px;
+    font-family: math;
+    font-size: 32px;
+    margin-top:20px;
+}
+label.col-md-12.col-form-label.text-md-start {
+    color: black!important;
+}
+.login-content {
+    position: relative;
+    width: 87%;
+    margin: 0 auto;
+}
+section#bottom ul {
+    list-style: none;
+    padding: 0px;
+}
+.login-frm, .register-form
+{
+    width:50%!important;
+    margin: 30px auto;
+}
+.col-md-12.login-demo button, .register-btn {
+    border-radius: 10px;
+    background: black;
+    width: 100%;
+}
+.register-btn button.btn.btn-primary {
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+.register-form .card-body {
+    padding: 12px 34px;
+}
+.register-form .form-control:focus {
+    color: white;
+    background-color: #363434;
+    border-color: #86b7fe;
+    outline: 0;
+    box-shadow: none;
+}
